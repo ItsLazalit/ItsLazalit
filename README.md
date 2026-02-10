@@ -14,12 +14,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-*Replace these with your own tech stack! Find more badges at [shields.io](https://shields.io) or [this repository](https://github.com/Ileriayo/markdown-badges)*
-
 ### Connect with me
 [LinkedIn](https://linkedin.com/in/yourprofile) • [My Scrimba Profile](https://scrimba.com/me/scrims) • [My Favorite Scrimba Course](https://scrimba.com/learn-javascript-c0v) • [I Built This on Scrimba](#) • [Portfolio](#)
-
-**Don't forget to add your Scrimbassador link to the end of the URLs above!** (e.g., `https://scrimba.com/learn-javascript-c0v?via=[YOUR-AFFILIATE-LINK]`)
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u4305f22)
 
